@@ -1,0 +1,7 @@
+-r requirements.txt
+
+# Additional dev tools
+jupyter==1.0.0
+ipython==8.18.1
+pytest-xdist==3.5.0
+pytest-benchmark==4.0.0
